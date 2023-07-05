@@ -7,3 +7,13 @@
       
     }
   }
+  .gr{
+    flex-wrap: nowrap;
+    
+  }
+  
+ li:hover{
+    text-decoration: underline;
+    
+
+ }
